@@ -20,6 +20,6 @@
 
 
 <componentPackage>
-
-    
+    <component id="WebGLRenderer" class="flash.__native.WebGLRenderer"/>
+    <component id="Sprite" class="flash.display.Sprite"/>
 </componentPackage>

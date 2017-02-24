@@ -28,6 +28,22 @@ package
 	internal class SpriteClasses
 	{
 		import flash.__native.BaseRenderer;BaseRenderer;
+		import flash.display.Sprite;Sprite;
+		import flash.display.Bitmap;Bitmap;
+		import flash.display.BitmapData;BitmapData;
+		import flash.utils.getTimer;getTimer;
+		import flash.events.Event;Event;
+
+		import flash.__native.WebGLRenderer;WebGLRenderer;
+		import flash.display.BlendMode;BlendMode;
+		import flash.display.DisplayObject;DisplayObject;
+		import flash.display.Loader;Loader
+		import flash.display.LoaderInfo;LoaderInfo;
+		import flash.events.MouseEvent;
+		import flash.geom.Matrix;
+		import flash.net.URLRequest;
+		import flash.text.TextField;
+
 	}
 
 }
